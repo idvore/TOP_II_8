@@ -17,3 +17,6 @@ venv/
 
 # Локальные результаты проверки
 validation-report.txt
+
+# Датасеты, скачанные при запуске ноутбуков
+M1-neuron-basics/attachments/data/
